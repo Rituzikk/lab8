@@ -54,6 +54,7 @@ python ahp.py
 Результат: Цена 0.29, Качество 0.61, Сроки 0.10.
 
 <img width="1173" height="847" alt="Рис1" src="https://github.com/user-attachments/assets/86c96032-523a-4762-8348-7449afa284a4" />
+
 <img width="1148" height="412" alt="Рис1 2" src="https://github.com/user-attachments/assets/f6394a80-b934-47b9-b86a-facd4d26e535" />
 
 
@@ -63,6 +64,7 @@ python ahp.py
 Результат: Критерий 1 0.36, Критерий 2 0.14, Критерий 3 0.15, Критерий 4 0.31, Критерий 5 0.04.
 
 <img width="1178" height="839" alt="Рис2" src="https://github.com/user-attachments/assets/493336dc-8ae6-4c84-8289-e93926b7ca0d" />
+
 <img width="1159" height="491" alt="Рис2 2" src="https://github.com/user-attachments/assets/c5b9ac75-c9e5-4df9-9f9f-d6c1384254ee" />
 
 
